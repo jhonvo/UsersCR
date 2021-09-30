@@ -1,2 +1,4 @@
 # UsersCR
-Objectives: Practice connecting Flask to database Practice display and creating data from/into the database
+Objectives: <br>
+Practice connecting Flask to database <br>
+Practice display and creating data from/into the database.
